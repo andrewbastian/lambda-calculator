@@ -1,0 +1,14 @@
+body{
+  background-color: red;
+}
+.specialBtn, .operatorBtn, .numberBtn{
+  height: 50px;
+  width: 50px;
+  border-radius: 100%
+
+}
+.numberBtn{
+  background-color: blue;
+  color: white;
+  
+}
